@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e264956-22ae-4925-8d83-166afd9243a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/WebApp/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/WebApp/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/WebApp/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/WebApp/careers.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/WebApp/careers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/WebApp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/WebApp/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/WebApp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/WebApp/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,17 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Owner/Downloads/Pacman_Eatery",
-    "onboarding.tips.debug.path": "C:/Users/Owner/Downloads/Pacman_Eatery/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Owner/Downloads/Pacman_Eatery&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Owner/Downloads/Pacman_Eatery/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Owner\Downloads\Pacman_Eatery\src\main\WebApp\img" />
